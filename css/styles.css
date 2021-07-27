@@ -1,0 +1,185 @@
+#title
+{
+    background-color: #ff4c68;
+    color:white;
+    
+}
+body{
+    font-family: "Mountserrat";
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+size: 6rem;
+line-height: 1.5;
+font-size: 4rem;
+}
+.container-fluid
+{
+padding:3% 15%;
+}
+.navbar-brand
+{
+ font-size:3rem;
+ font-weight:250;
+}
+.navbar
+{
+    padding-bottom:  4.5%;
+    padding-left: 0%;
+}
+.navi-tem
+{
+    padding:0 20px;
+    font-size: medium;
+    font-weight: 200;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+.button-b
+{
+    margin:5% 3% 5% 0%;
+}
+.little-img
+{
+    width:60%;
+    
+    
+    
+}
+.rotate
+{
+    transform:rotate(25deg);
+}
+#features
+{   text-align: center;
+    position: static;
+    background-color:white;;
+    z-index:1;
+    padding:7% 15%;
+}
+.feature-box
+{
+    font-size: x-large;
+text-align: center;
+padding: 5%;
+
+}
+h3{
+    font-family:"Mountserrat";
+    font-weight:bolder;
+}
+p{
+    color: gray;
+}
+.icon
+{
+    color:#ef8172;
+    margin:1rem;
+}
+.icon:hover
+{
+    color: #ff4c68;
+    
+}
+#testimonials
+{
+    padding:;
+    text-align: center;
+    color: aliceblue;
+    background-color:#ef8172 ;
+}
+h2{ 
+    font-weight: bolder;
+
+ font-size: 400%;
+   
+
+}
+.testimonial-image
+{
+    width:20%;
+    border-radius:100%;
+    margin-top: 15%;
+}
+#press
+{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.press-logo
+{
+    width:15%;
+    margin:20px 20px 50px;
+}
+#carouselExampleControls
+{
+    padding:7% 15%;
+}
+#pricing
+{
+    padding:100px;
+}
+h3{
+    font-weight:bolder bolder bolder;
+}
+.btn1
+{
+    color:grey;
+}
+.btt{
+    margin-bottom: 1.15%;
+}
+.card{
+    
+    width: fit-content;
+    padding-left: 0%;
+    padding-right: 0%;
+  height: fit-content;
+  border:2;
+  margin-top:2.5%;
+}
+#pricing
+{
+    height: fit-content;
+    text-align: center;
+}
+.pa
+{
+    margin-top: 5%;
+}
+.hq{
+    margin-bottom: 4%;
+}
+.iphone{
+    height:15%;
+}
+
+#cta{
+    background-color:#ff4c68;
+    height:200%;
+    padding:7% 14%;
+    text-align: center;
+    color:white;
+    
+
+}
+.he
+{
+    font-size: 500%;
+}
+#footer
+{
+    padding:7% 15%;
+    text-align: center;
+}
+.ic{
+ margin:20px 10px;
+ height: 1.5rem;
+}
+
